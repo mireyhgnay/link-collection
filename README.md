@@ -10,17 +10,24 @@
 
 <br>
 
-## Youtube
+## Youtube (유튜브 강의)
 
-`제주코딩베이스캠프`
+**`제주코딩베이스캠프`**
 
 - [제주코딩베이스캠프](https://www.youtube.com/@jejucodingcamp)
-
-- [[Summary 시리즈] 30분 JS 요약 1부](https://www.youtube.com/watch?v=5eZUgvaSjXY&list=PLkfUwwo13dlWsZAdz1dFojuuYVbRynuFS)
-
-- [넓고 얕은 IT 지식 재생목록](https://www.youtube.com/watch?v=KpTyl6gjsrw&list=PLkfUwwo13dlXSXc3A_uCC1HSL5U-VA7M2&index=1)
+- [제주코딩베이스캠프 - 30분 JS 요약 1부](https://www.youtube.com/watch?v=5eZUgvaSjXY&list=PLkfUwwo13dlWsZAdz1dFojuuYVbRynuFS)
+- [제주코딩베이스캠프 - 넓고 얕은 IT 지식 재생목록](https://www.youtube.com/watch?v=KpTyl6gjsrw&list=PLkfUwwo13dlXSXc3A_uCC1HSL5U-VA7M2&index=1)
 
 <br>
 <br>
 
-## Online Class
+## Online Class (인강)
+
+<br>
+<br>
+
+## Coding Test(알고리즘 코딩 테스트)
+
+- [프로그래머스 스쿨 - 코딩테스트](https://school.programmers.co.kr/learn/challenges?order=recent&page=1&levels=0&languages=javascript)
+- [인프런 - 자바스크립트 알고리즘 문제풀이 입문](https://www.inflearn.com/course/자바스크립트-알고리즘-문제풀이)
+- [프로그래머스 스쿨 - 코디테스트 광탈 방지 A to Z : JavaScript](https://school.programmers.co.kr/learn/courses/13213/13213-코딩테스트-광탈-방지-a-to-z-javascript)
