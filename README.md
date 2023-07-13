@@ -19,9 +19,24 @@
 - [제주코딩베이스캠프 - 넓고 얕은 IT 지식 재생목록](https://www.youtube.com/watch?v=KpTyl6gjsrw&list=PLkfUwwo13dlXSXc3A_uCC1HSL5U-VA7M2&index=1)
 
 <br>
+
+**`생활코딩`**
+
+- [생활코딩](https://www.youtube.com/@coohde)
+- [생활코딩 - React](https://www.youtube.com/playlist?list=PLuHgQVnccGMCRv6f8H9K5Xwsdyg4sFSdi)
+
+<br>
 <br>
 
 ## Online Class (인강)
+
+- [인프런](https://www.inflearn.com/)
+
+<br>
+
+**`React`**
+
+- [인프런 - 만들면서 배우는 리액트 : 기초](https://www.inflearn.com/course/만들면서-배우는-리액트-기초)
 
 <br>
 <br>
