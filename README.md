@@ -46,3 +46,10 @@
 - [프로그래머스 스쿨 - 코딩테스트](https://school.programmers.co.kr/learn/challenges?order=recent&page=1&levels=0&languages=javascript)
 - [인프런 - 자바스크립트 알고리즘 문제풀이 입문](https://www.inflearn.com/course/자바스크립트-알고리즘-문제풀이)
 - [프로그래머스 스쿨 - 코디테스트 광탈 방지 A to Z : JavaScript](https://school.programmers.co.kr/learn/courses/13213/13213-코딩테스트-광탈-방지-a-to-z-javascript)
+
+<br>
+<br>
+
+## Book
+
+- **비전공자를 위한 이해할 수 있는 IT 지식 완독 (밀리의 서재 구매)**
