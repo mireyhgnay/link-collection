@@ -26,6 +26,14 @@
 - [생활코딩 - React](https://www.youtube.com/playlist?list=PLuHgQVnccGMCRv6f8H9K5Xwsdyg4sFSdi)
 
 <br>
+
+**`컨퍼런스 영상`**
+
+- [Naver d2](https://www.youtube.com/@naverd2848)
+- [Naver d2 - TECH CONCERT: FRONT END 2019 - 빠르게 훑어보는 웹 개발 트렌드](https://www.youtube.com/watch?v=BXOH9b177ho)
+- [Naver d2 -TECH CONCERT: FRONT END 2019 - 주니어 개발자의 성장에 대한 뻔하지만 뻔하지않은 이야기](https://www.youtube.com/watch?v=nKKlYEVMhhY)
+
+<br>
 <br>
 
 ## Online Class (인강)
