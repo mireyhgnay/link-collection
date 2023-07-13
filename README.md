@@ -43,8 +43,8 @@
 
 **`드림코딩`**
 
-- [드림코딩 - 프론트엔드 개발자 되기 입문편(개념+클론코딩)](https://www.youtube.com/playlist?list=PLv2d7VI9OotQ1F92Jp9Ce7ovHEsuRQB3Y)
-- [드림코딩 - 자바스크립트 기초 강의(ES5+)](https://www.youtube.com/playlist?list=PLv2d7VI9OotTVOL4QmPfvJWPJvkmv6h-2)
+- [드림코딩 - 프론트엔드 개발자 되기 입문편(개념+클론코딩)⭐️](https://www.youtube.com/playlist?list=PLv2d7VI9OotQ1F92Jp9Ce7ovHEsuRQB3Y)
+- [드림코딩 - 자바스크립트 기초 강의(ES5+)⭐️](https://www.youtube.com/playlist?list=PLv2d7VI9OotTVOL4QmPfvJWPJvkmv6h-2)
 
 <br>
 <br>
@@ -53,7 +53,8 @@
 
 - [인프런](https://www.inflearn.com/)
 - [Udemy](https://www.udemy.com/)
-- [드림코딩](https://academy.dream-coding.com/)
+- [Dream Coding(드림코딩)](https://academy.dream-coding.com/)
+- [Fast Campus(패스트캠퍼스)](https://fastcampus.co.kr/)
 
 <br>
 
@@ -69,6 +70,12 @@
 - [Udemy - 클린 코드 자바스크립트](https://www.udemy.com/course/clean-code-js/)
 - [JavaScript 30 days](https://javascript30.com/)
 - [드림코딩 - 프론트엔드 브라우저101](https://academy.dream-coding.com/)
+
+<br>
+
+**`Markup`**
+
+- [Fast Campus - 견고한 UI설계를 위한 마크업 가이드⭐️](https://fastcampus.co.kr/dev_red_jcm)
 
 <br>
 <br>
