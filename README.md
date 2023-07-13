@@ -34,11 +34,26 @@
 - [Naver d2 -TECH CONCERT: FRONT END 2019 - 주니어 개발자의 성장에 대한 뻔하지만 뻔하지않은 이야기](https://www.youtube.com/watch?v=nKKlYEVMhhY)
 
 <br>
+
+**`개발바닥`**
+
+- [개발바닥](https://www.youtube.com/@devbadak/videos)
+
+<br>
+
+**`드림코딩`**
+
+- [드림코딩 - 프론트엔드 개발자 되기 입문편(개념+클론코딩)](https://www.youtube.com/playlist?list=PLv2d7VI9OotQ1F92Jp9Ce7ovHEsuRQB3Y)
+- [드림코딩 - 자바스크립트 기초 강의(ES5+)](https://www.youtube.com/playlist?list=PLv2d7VI9OotTVOL4QmPfvJWPJvkmv6h-2)
+
+<br>
 <br>
 
 ## Online Class (인강)
 
 - [인프런](https://www.inflearn.com/)
+- [Udemy](https://www.udemy.com/)
+- [드림코딩](https://academy.dream-coding.com/)
 
 <br>
 
@@ -47,11 +62,20 @@
 - [인프런 - 만들면서 배우는 리액트 : 기초](https://www.inflearn.com/course/만들면서-배우는-리액트-기초)
 
 <br>
+
+**`JavaScript`**
+
+- [Udemy - 블랙커피 Vanilla JS Lv1. 문벅스 카페 메뉴 앱 만들기⭐️](https://www.udemy.com/course/vanilla-js-lv1/)
+- [Udemy - 클린 코드 자바스크립트](https://www.udemy.com/course/clean-code-js/)
+- [JavaScript 30 days](https://javascript30.com/)
+- [드림코딩 - 프론트엔드 브라우저101](https://academy.dream-coding.com/)
+
+<br>
 <br>
 
 ## Coding Test(알고리즘 코딩 테스트)
 
-- [프로그래머스 스쿨 - 코딩테스트](https://school.programmers.co.kr/learn/challenges?order=recent&page=1&levels=0&languages=javascript)
+- [프로그래머스 스쿨 - 코딩테스트⭐️](https://school.programmers.co.kr/learn/challenges?order=recent&page=1&levels=0&languages=javascript)
 - [인프런 - 자바스크립트 알고리즘 문제풀이 입문](https://www.inflearn.com/course/자바스크립트-알고리즘-문제풀이)
 - [프로그래머스 스쿨 - 코디테스트 광탈 방지 A to Z : JavaScript](https://school.programmers.co.kr/learn/courses/13213/13213-코딩테스트-광탈-방지-a-to-z-javascript)
 
