@@ -89,6 +89,33 @@
 <br>
 <br>
 
+## HTTP 네트워크 이해에 도움이 되는 문서들
+
+1️⃣ 주니어 개발자를 위한 엄청 쉬운 네트워크 이야기
+
+https://yozm.wishket.com/magazine/detail/1875/
+
+2️⃣ 택배 배송 과정으로 알아보는 엄청 쉬운 네트워크
+
+https://yozm.wishket.com/magazine/detail/1906/
+
+3️⃣ 주니어 개발자를 위한 엄청 쉬운 TCP/IP 4계층 이야기
+
+https://yozm.wishket.com/magazine/detail/1956/
+
+4️⃣ 주니어 개발자를 위한 TCP/IP 주요 프로토콜 알아보기
+
+https://yozm.wishket.com/magazine/detail/2005/
+
+5️⃣ 주니어 개발자를 위한, '웹'으로 알아보는 네트워크
+
+https://yozm.wishket.com/magazine/detail/2055/
+
+<br>
+<br>
+
 ## Book
 
 - **비전공자를 위한 이해할 수 있는 IT 지식 완독 (밀리의 서재 구매)**
+
+- **HTTP 완벽 가이드**
