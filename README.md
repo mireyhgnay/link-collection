@@ -8,6 +8,10 @@
 공부할 때 참고하기 좋았던, 그리고 좋은 강의들을 모아두었습니다.
 ```
 
+## Notion
+
+[노션에 개인적으로 정리해둔 도움되는 링크들 보러가기](https://hyerimiya.notion.site/Reference-83c842e5e7ea4b61aa702bd1b1640fd5?pvs=4) 👉
+
 <br>
 
 ## Youtube (유튜브 강의)
